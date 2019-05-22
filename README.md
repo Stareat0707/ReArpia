@@ -1,11 +1,13 @@
 # Project: ReArpia
 
+본 문서는 `Project: ReArpia`의 개요에 대해 다룬다.
+
 ## Project: ReArpia 소개
 
 - `주식회사 엔씨소프트`에서 개발/유통한 RPG 게임 `마법학교 아르피아`의 동인 게임
 - 원작 게임인 `Arpia` 앞에 `Re`를 붙이므로써 `마법학교 아르피아`의 동인 게임임을 나타냄
   - 이 `Re`가 `Remake`가 될지, `Remaster`가 될지는 정해지지 않음
-  - 아마 `Remake`의 가능성이 크다고 판단 중
+  - 현재 `Remake`로 작업 중
 
 ## 기획 의도
 
